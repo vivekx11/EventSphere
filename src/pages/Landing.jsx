@@ -1,3 +1,5 @@
+// landing.jsx
+
 import { Link } from 'react-router-dom';
 import { ArrowRight, Calendar as CalendarIcon, MapPin, Users } from 'lucide-react';
 
