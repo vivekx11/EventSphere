@@ -1,3 +1,5 @@
+// navbar.jsx
+
 import { Link } from 'react-router-dom';
 import { Calendar, Menu, X, User } from 'lucide-react';
 import { useState } from 'react';
